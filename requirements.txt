@@ -1,0 +1,14 @@
+aiohttp==3.12.13
+    # via ffmpeg-mcp (pyproject.toml)
+fastapi==0.115.14
+    # via ffmpeg-mcp (pyproject.toml)
+mcp==1.10.1
+    # via ffmpeg-mcp (pyproject.toml)
+moviepy==2.2.1
+    # via ffmpeg-mcp (pyproject.toml)
+openai-whisper==20250625
+    # via ffmpeg-mcp (pyproject.toml)
+oss2==2.19.1
+    # via ffmpeg-mcp (pyproject.toml)
+tqdm==4.67.1
+    # via ffmpeg-mcp (pyproject.toml)
